@@ -1,0 +1,2 @@
+def fun():
+	import math
